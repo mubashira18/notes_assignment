@@ -1,4 +1,5 @@
-please read the file above due to some conditions i uploaded frontend and backend file separately , u will find both repositories links in the above file, please go through it
+please read the file above due to some conditions i uploaded frontend and backend file separately , u will find both repositories links in the above file, please go through it.
+<br/>
 Final Note on the Notes Web Application
 Our Notes Web Application offers a robust and intuitive solution for managing your notes, designed to boost productivity and organization. Key highlights include:
 
