@@ -1,0 +1,9 @@
+create a folder and clone these two repositories 
+
+frontend file -- git clone https://github.com/mubashira18/notes_app_frontend.git
+backend file -- git clone https://github.com/mubashira18/Notes_app.git
+
+
+then --- for frontend npm install follwed by npm run dev 
+
+for backend npm i follwed by npm run server 
